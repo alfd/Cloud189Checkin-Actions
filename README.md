@@ -36,7 +36,7 @@
 添加名为**USER**、**PWD**的变量  
 值分别为**账号**、**密码**  
 支持多账号，账号之间与密码之间用**半角逗号**分隔，账号于密码的个数要对应  
-示例：**USER:123456,24678**，**PWD:cxkjntm,jntmcxk**
+示例：**USER:123456 24678**，**PWD:cxkjntm jntmcxk**
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
 ## 三、启用Action
